@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0 px;
+   
+}
+body{
+    font-family: 'Young Serif', serif;
+    padding: 30px;
+}
+.container{
+    padding: 20px;
+}
+.section-one{
+    background-color: black;
+    color: whitesmoke;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px ;
+    padding-left: 20px;
+}
+.section-one__image{
+    
+    font-size: medium;
+    color: blue;
+    padding-top: 20px;
+
+}
+.section-two__para{
+    padding-top: 20px;
+    margin: 20px;
+    padding-bottom: 50px;
+
+
+}
+.section-three,section-4{
+    vertical-align: top;
+    display: inline-block;
+}
+.section-five__tittle{
+    background-color: black;
+    color: antiquewhite;
+    font-size: large;
+}
+  
